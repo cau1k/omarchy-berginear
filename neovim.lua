@@ -9,7 +9,7 @@ return {
 				-- Monotone shades (base00-base07)
 				base00 = "#080d06", -- Default background
 				base01 = "#6d7e70", -- Lighter background (status bars)
-				base02 = "#080d06", -- Selection background
+				base02 = "#D0E5C7", -- Selection background
 				base03 = "#6d7e70", -- Comments, invisibles
 				base04 = "#cee7d2", -- Dark foreground
 				base05 = "#b6dbbc", -- Default foreground
